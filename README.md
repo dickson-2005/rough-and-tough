@@ -10,4 +10,4 @@ index-html
 <p>a video game</p>
 </body>
 </html>
-<a>href=IYF free weekend academy<button>like</button>
+<a>href=IYF free weekend academy<button>click now</button>
