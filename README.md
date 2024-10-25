@@ -1,5 +1,5 @@
 # rough-and-tough
-index-htm
+index-html
 <!DOCTYPE-html≥
 <html>
 <head>
